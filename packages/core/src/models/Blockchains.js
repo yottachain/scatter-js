@@ -2,7 +2,8 @@
 export const Blockchains = {
     EOS:'eos',
     ETH:'eth',
-    TRX:'trx'
+    TRX:'trx',
+    YTA:'yta'
 };
 
 export const BlockchainsArray =
